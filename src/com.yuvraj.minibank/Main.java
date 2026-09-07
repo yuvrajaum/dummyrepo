@@ -84,7 +84,7 @@ public class Main {
         System.out.println("7. Transaction History");
         System.out.println("8. Reports");
         System.out.println("9. Export Statements");
-        System.out.println("0. Exit\n");
+        System.out.println("0. Ex  it\n");
     }
 
     private static String readInput(String prompt, String regex) {
