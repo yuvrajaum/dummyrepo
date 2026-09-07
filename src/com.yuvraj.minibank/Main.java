@@ -67,7 +67,7 @@ public class Main {
                     sc.close();
                     return;
                 }
-                default -> System.out.println("Invalid choice, please select from menu.");
+                default -> System.out.println("Invalid choice, inds please select from menu.");
             }
         }
     }
